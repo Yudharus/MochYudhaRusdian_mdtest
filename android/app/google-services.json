@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555036948148",
+    "project_id": "fantest-bdffd",
+    "storage_bucket": "fantest-bdffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555036948148:android:8559f35a54d3578b1309e1",
+        "android_client_info": {
+          "package_name": "com.yudharusdianmdtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZoBl15R8V44trbx79q3TB-aWtjBkRK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
